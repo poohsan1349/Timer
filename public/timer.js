@@ -45,9 +45,7 @@ $(function(){
     var sec_number = ('0' + sec).slice(-2);
     var min_number = ('0' + min).slice(-2);
 
-    $('#clock').html(diff);
-
-    //$('#clock').html( min_number + ':' + sec_number);
+    $('#clock').html( min_number + ':' + sec_number);
 
   }
 
