@@ -6,6 +6,7 @@ $(function(){
   // 差分
   var diff;
 
+
   // 一時停止した時のタイム
   var stop_time = 0;
 
